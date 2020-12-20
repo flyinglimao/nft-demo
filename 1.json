@@ -1,0 +1,23 @@
+{
+
+  "name": "天大地大台科大",
+
+  "description": "據說持有台科大學生證的人可以暢行天下，那持有台科大 NFT 的人或許可以暢行幣圈吧。",
+
+  "image": "https://gateway.pinata.cloud/ipfs/QmaLfvvpLiDxYtHffNfQKMYg5ZufhtTpbYAK8NJW359BTs",
+
+  "animation_url": "https://github.com/flyinglimao/flyinglimao.github.io/blob/master/ntust.glb?raw=true",
+
+  "attributes": [
+
+    {
+
+      "trait_type": "日期",
+
+      "value": "2020/12/20"
+
+    }
+
+  ]
+
+}
